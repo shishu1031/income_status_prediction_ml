@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+models/*.joblib
+models/*.pkl
+data/*.csv
+data/*.data
+reports/*.csv
+reports/*.json
+reports/*.png
